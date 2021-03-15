@@ -1,0 +1,33 @@
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\emrah.uzdilli\Desktop\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\emrah.uzdilli\Desktop\Projeler\C# Projeler\SQL kayıtEKLE-SİLME-GÜNCELLEME\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
